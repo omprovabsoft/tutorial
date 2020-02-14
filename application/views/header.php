@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>ADMIN</title>
+        <title><?php echo $title; ?></title>
         <meta charset="utf-8">
          <link rel="icon" type="image/png" href="<?php echo base_url(); ?>include/publicwebsite/images/icons/ico.png"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
