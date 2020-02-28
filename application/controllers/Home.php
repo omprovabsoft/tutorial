@@ -26,4 +26,8 @@ class Home extends CI_Controller {
 	{   $data['title'] = "ANGULAR JS";
 		$this->load->view('angularjs', $data);
 	}
+	public function java()
+	{   $data['title'] = "JAVA";
+		$this->load->view('java', $data);
+	}
 }

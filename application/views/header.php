@@ -31,6 +31,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav" style="font-size: 12px">
                     <li><a href="<?php echo base_url('Home/angularjs'); ?>">ANGULAR JS</a></li>
+                    <li><a href="<?php echo base_url('Home/java'); ?>">JAVA</a></li>
                     
                     <li><a href="<?php echo base_url('Home/gallary'); ?>">GALARY</a></li>
 
