@@ -84,7 +84,7 @@ reflect them in the view by updating all of the affected bindings.</p>
 <p class="ng-scope">The structure of our application is currently very simple. The template contains just one directive
 and one static binding, and our model is empty. That will soon change!</p>
 
-<p class="ng-scope"><img class="diagram" src="<?php echo UPLOAD_IMAGE_URL; ?>tutorial_00.png"></p>
+<p class="ng-scope"><img class="diagram" src="<?php echo UPLOAD_IMAGE_URL; ?>tutorial_00.png" class="img-responsive"></p>
 
 
 

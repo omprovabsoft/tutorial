@@ -29,7 +29,7 @@ L<?php
 
  <p style="text-align: justify;"><b style="text-transform: uppercase;">1. Object Oriented Paradigm:</b>  <br>Object-oriented programming (OOP) is a programming paradigm based upon objects (having both data and methods) that aims to incorporate the advantages of modularity and reusability. Objects, which are usually instances of classes, are used to interact with one another to design applications and computer programs.<br><i>Object–Oriented Programming as a method of implementation in which programs are organized as cooperative collections of objects, each of which represents an instance of some class, and whose classes are all members of a hierarchy of classes united via inheritance relationships</i>
  	<br>
- 	<img src="<?php echo UPLOAD_IMAGE_URL; ?>1111111111.png?>">
+ 	<img src="<?php echo UPLOAD_IMAGE_URL; ?>1111111111.PNG" class="img-responsive">
  	<br>
  	<b>Features of Object Oriented Paradigm:</b>
 
