@@ -15,9 +15,9 @@ class Home extends CI_Controller {
 		$data['title'] = "JAVA";
 		$this->load->view('java', $data);
 	}
-	public function tools(){   
-		$data['title'] = "TOOLS";
-		$this->load->view('tools', $data);
+	public function oops(){   
+		$data['title'] = "OOPS";
+		$this->load->view('oops', $data);
 	}
 	public function dependency_injection(){   
 		$data['title'] = "DEPENDENCY INJECTION";
